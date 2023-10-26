@@ -1,0 +1,403 @@
+[27-Feb-2020 12:04:25 UTC] PHP Warning:  include(includes/header.php): failed to open stream: No such file or directory in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 1
+[27-Feb-2020 12:04:25 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 1
+[27-Feb-2020 12:04:25 UTC] PHP Warning:  include(includes/connection.php): failed to open stream: No such file or directory in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 2
+[27-Feb-2020 12:04:25 UTC] PHP Warning:  include(): Failed opening 'includes/connection.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 2
+[27-Feb-2020 12:04:25 UTC] PHP Notice:  Undefined variable: conn in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 383
+[27-Feb-2020 12:04:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 383
+[27-Feb-2020 12:04:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 384
+[27-Feb-2020 12:04:25 UTC] PHP Notice:  Undefined variable: conn in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 403
+[27-Feb-2020 12:04:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 403
+[27-Feb-2020 12:04:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 404
+[27-Feb-2020 12:04:25 UTC] PHP Warning:  include(includes/connectionClose.php): failed to open stream: No such file or directory in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 432
+[27-Feb-2020 12:04:25 UTC] PHP Warning:  include(): Failed opening 'includes/connectionClose.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 432
+[27-Feb-2020 12:04:25 UTC] PHP Warning:  include(includes/footer.php): failed to open stream: No such file or directory in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 433
+[27-Feb-2020 12:04:25 UTC] PHP Warning:  include(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 433
+[27-Feb-2020 12:04:27 UTC] PHP Warning:  include(includes/header.php): failed to open stream: No such file or directory in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 1
+[27-Feb-2020 12:04:27 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 1
+[27-Feb-2020 12:04:27 UTC] PHP Warning:  include(includes/connection.php): failed to open stream: No such file or directory in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 2
+[27-Feb-2020 12:04:27 UTC] PHP Warning:  include(): Failed opening 'includes/connection.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 2
+[27-Feb-2020 12:04:27 UTC] PHP Notice:  Undefined variable: conn in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 383
+[27-Feb-2020 12:04:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 383
+[27-Feb-2020 12:04:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 384
+[27-Feb-2020 12:04:27 UTC] PHP Notice:  Undefined variable: conn in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 403
+[27-Feb-2020 12:04:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 403
+[27-Feb-2020 12:04:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 404
+[27-Feb-2020 12:04:27 UTC] PHP Warning:  include(includes/connectionClose.php): failed to open stream: No such file or directory in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 432
+[27-Feb-2020 12:04:27 UTC] PHP Warning:  include(): Failed opening 'includes/connectionClose.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 432
+[27-Feb-2020 12:04:27 UTC] PHP Warning:  include(includes/footer.php): failed to open stream: No such file or directory in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 433
+[27-Feb-2020 12:04:27 UTC] PHP Warning:  include(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 433
+[27-Feb-2020 12:04:29 UTC] PHP Warning:  include(includes/header.php): failed to open stream: No such file or directory in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 1
+[27-Feb-2020 12:04:29 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 1
+[27-Feb-2020 12:04:29 UTC] PHP Warning:  include(includes/connection.php): failed to open stream: No such file or directory in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 2
+[27-Feb-2020 12:04:29 UTC] PHP Warning:  include(): Failed opening 'includes/connection.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 2
+[27-Feb-2020 12:04:29 UTC] PHP Notice:  Undefined variable: conn in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 383
+[27-Feb-2020 12:04:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 383
+[27-Feb-2020 12:04:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 384
+[27-Feb-2020 12:04:29 UTC] PHP Notice:  Undefined variable: conn in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 403
+[27-Feb-2020 12:04:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 403
+[27-Feb-2020 12:04:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 404
+[27-Feb-2020 12:04:29 UTC] PHP Warning:  include(includes/connectionClose.php): failed to open stream: No such file or directory in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 432
+[27-Feb-2020 12:04:29 UTC] PHP Warning:  include(): Failed opening 'includes/connectionClose.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 432
+[27-Feb-2020 12:04:29 UTC] PHP Warning:  include(includes/footer.php): failed to open stream: No such file or directory in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 433
+[27-Feb-2020 12:04:29 UTC] PHP Warning:  include(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 433
+[27-Feb-2020 12:04:29 UTC] PHP Warning:  include(includes/header.php): failed to open stream: No such file or directory in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 1
+[27-Feb-2020 12:04:29 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 1
+[27-Feb-2020 12:04:29 UTC] PHP Warning:  include(includes/connection.php): failed to open stream: No such file or directory in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 2
+[27-Feb-2020 12:04:29 UTC] PHP Warning:  include(): Failed opening 'includes/connection.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 2
+[27-Feb-2020 12:04:29 UTC] PHP Notice:  Undefined variable: conn in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 383
+[27-Feb-2020 12:04:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 383
+[27-Feb-2020 12:04:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 384
+[27-Feb-2020 12:04:29 UTC] PHP Notice:  Undefined variable: conn in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 403
+[27-Feb-2020 12:04:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 403
+[27-Feb-2020 12:04:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 404
+[27-Feb-2020 12:04:29 UTC] PHP Warning:  include(includes/connectionClose.php): failed to open stream: No such file or directory in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 432
+[27-Feb-2020 12:04:29 UTC] PHP Warning:  include(): Failed opening 'includes/connectionClose.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 432
+[27-Feb-2020 12:04:29 UTC] PHP Warning:  include(includes/footer.php): failed to open stream: No such file or directory in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 433
+[27-Feb-2020 12:04:29 UTC] PHP Warning:  include(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 433
+[27-Feb-2020 12:04:33 UTC] PHP Warning:  include(includes/header.php): failed to open stream: No such file or directory in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 1
+[27-Feb-2020 12:04:33 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 1
+[27-Feb-2020 12:04:33 UTC] PHP Warning:  include(includes/connection.php): failed to open stream: No such file or directory in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 2
+[27-Feb-2020 12:04:33 UTC] PHP Warning:  include(): Failed opening 'includes/connection.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 2
+[27-Feb-2020 12:04:33 UTC] PHP Notice:  Undefined variable: conn in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 383
+[27-Feb-2020 12:04:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 383
+[27-Feb-2020 12:04:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 384
+[27-Feb-2020 12:04:33 UTC] PHP Notice:  Undefined variable: conn in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 403
+[27-Feb-2020 12:04:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 403
+[27-Feb-2020 12:04:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 404
+[27-Feb-2020 12:04:33 UTC] PHP Warning:  include(includes/connectionClose.php): failed to open stream: No such file or directory in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 432
+[27-Feb-2020 12:04:33 UTC] PHP Warning:  include(): Failed opening 'includes/connectionClose.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 432
+[27-Feb-2020 12:04:33 UTC] PHP Warning:  include(includes/footer.php): failed to open stream: No such file or directory in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 433
+[27-Feb-2020 12:04:33 UTC] PHP Warning:  include(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 433
+[27-Feb-2020 12:04:35 UTC] PHP Warning:  include(includes/header.php): failed to open stream: No such file or directory in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 1
+[27-Feb-2020 12:04:35 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 1
+[27-Feb-2020 12:04:35 UTC] PHP Warning:  include(includes/connection.php): failed to open stream: No such file or directory in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 2
+[27-Feb-2020 12:04:35 UTC] PHP Warning:  include(): Failed opening 'includes/connection.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 2
+[27-Feb-2020 12:04:35 UTC] PHP Notice:  Undefined variable: conn in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 383
+[27-Feb-2020 12:04:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 383
+[27-Feb-2020 12:04:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 384
+[27-Feb-2020 12:04:35 UTC] PHP Notice:  Undefined variable: conn in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 403
+[27-Feb-2020 12:04:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 403
+[27-Feb-2020 12:04:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 404
+[27-Feb-2020 12:04:35 UTC] PHP Warning:  include(includes/connectionClose.php): failed to open stream: No such file or directory in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 432
+[27-Feb-2020 12:04:35 UTC] PHP Warning:  include(): Failed opening 'includes/connectionClose.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 432
+[27-Feb-2020 12:04:35 UTC] PHP Warning:  include(includes/footer.php): failed to open stream: No such file or directory in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 433
+[27-Feb-2020 12:04:35 UTC] PHP Warning:  include(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 433
+[27-Feb-2020 12:04:42 UTC] PHP Warning:  include(includes/header.php): failed to open stream: No such file or directory in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 1
+[27-Feb-2020 12:04:42 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 1
+[27-Feb-2020 12:04:42 UTC] PHP Warning:  include(includes/connection.php): failed to open stream: No such file or directory in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 2
+[27-Feb-2020 12:04:42 UTC] PHP Warning:  include(): Failed opening 'includes/connection.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 2
+[27-Feb-2020 12:04:42 UTC] PHP Notice:  Undefined variable: conn in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 383
+[27-Feb-2020 12:04:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 383
+[27-Feb-2020 12:04:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 384
+[27-Feb-2020 12:04:42 UTC] PHP Notice:  Undefined variable: conn in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 403
+[27-Feb-2020 12:04:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 403
+[27-Feb-2020 12:04:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 404
+[27-Feb-2020 12:04:42 UTC] PHP Warning:  include(includes/connectionClose.php): failed to open stream: No such file or directory in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 432
+[27-Feb-2020 12:04:42 UTC] PHP Warning:  include(): Failed opening 'includes/connectionClose.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 432
+[27-Feb-2020 12:04:42 UTC] PHP Warning:  include(includes/footer.php): failed to open stream: No such file or directory in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 433
+[27-Feb-2020 12:04:42 UTC] PHP Warning:  include(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 433
+[27-Feb-2020 12:04:47 UTC] PHP Warning:  include(includes/header.php): failed to open stream: No such file or directory in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 1
+[27-Feb-2020 12:04:47 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 1
+[27-Feb-2020 12:04:47 UTC] PHP Warning:  include(includes/connection.php): failed to open stream: No such file or directory in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 2
+[27-Feb-2020 12:04:47 UTC] PHP Warning:  include(): Failed opening 'includes/connection.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 2
+[27-Feb-2020 12:04:47 UTC] PHP Notice:  Undefined variable: conn in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 383
+[27-Feb-2020 12:04:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 383
+[27-Feb-2020 12:04:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 384
+[27-Feb-2020 12:04:47 UTC] PHP Notice:  Undefined variable: conn in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 403
+[27-Feb-2020 12:04:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 403
+[27-Feb-2020 12:04:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 404
+[27-Feb-2020 12:04:47 UTC] PHP Warning:  include(includes/connectionClose.php): failed to open stream: No such file or directory in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 432
+[27-Feb-2020 12:04:47 UTC] PHP Warning:  include(): Failed opening 'includes/connectionClose.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 432
+[27-Feb-2020 12:04:47 UTC] PHP Warning:  include(includes/footer.php): failed to open stream: No such file or directory in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 433
+[27-Feb-2020 12:04:47 UTC] PHP Warning:  include(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 433
+[27-Feb-2020 12:04:53 UTC] PHP Warning:  include(includes/header.php): failed to open stream: No such file or directory in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 1
+[27-Feb-2020 12:04:53 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 1
+[27-Feb-2020 12:04:53 UTC] PHP Warning:  include(includes/connection.php): failed to open stream: No such file or directory in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 2
+[27-Feb-2020 12:04:53 UTC] PHP Warning:  include(): Failed opening 'includes/connection.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 2
+[27-Feb-2020 12:04:53 UTC] PHP Notice:  Undefined variable: conn in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 383
+[27-Feb-2020 12:04:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 383
+[27-Feb-2020 12:04:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 384
+[27-Feb-2020 12:04:53 UTC] PHP Notice:  Undefined variable: conn in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 403
+[27-Feb-2020 12:04:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 403
+[27-Feb-2020 12:04:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 404
+[27-Feb-2020 12:04:53 UTC] PHP Warning:  include(includes/connectionClose.php): failed to open stream: No such file or directory in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 432
+[27-Feb-2020 12:04:53 UTC] PHP Warning:  include(): Failed opening 'includes/connectionClose.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 432
+[27-Feb-2020 12:04:53 UTC] PHP Warning:  include(includes/footer.php): failed to open stream: No such file or directory in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 433
+[27-Feb-2020 12:04:53 UTC] PHP Warning:  include(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 433
+[27-Feb-2020 12:04:58 UTC] PHP Warning:  include(includes/header.php): failed to open stream: No such file or directory in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 1
+[27-Feb-2020 12:04:58 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 1
+[27-Feb-2020 12:04:58 UTC] PHP Warning:  include(includes/connection.php): failed to open stream: No such file or directory in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 2
+[27-Feb-2020 12:04:58 UTC] PHP Warning:  include(): Failed opening 'includes/connection.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 2
+[27-Feb-2020 12:04:58 UTC] PHP Notice:  Undefined variable: conn in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 383
+[27-Feb-2020 12:04:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 383
+[27-Feb-2020 12:04:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 384
+[27-Feb-2020 12:04:58 UTC] PHP Notice:  Undefined variable: conn in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 403
+[27-Feb-2020 12:04:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 403
+[27-Feb-2020 12:04:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 404
+[27-Feb-2020 12:04:58 UTC] PHP Warning:  include(includes/connectionClose.php): failed to open stream: No such file or directory in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 432
+[27-Feb-2020 12:04:58 UTC] PHP Warning:  include(): Failed opening 'includes/connectionClose.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 432
+[27-Feb-2020 12:04:58 UTC] PHP Warning:  include(includes/footer.php): failed to open stream: No such file or directory in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 433
+[27-Feb-2020 12:04:58 UTC] PHP Warning:  include(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 433
+[27-Feb-2020 12:05:29 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[27-Feb-2020 12:05:42 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[27-Feb-2020 12:06:00 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[27-Feb-2020 12:06:10 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 08:09:01 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 08:09:20 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 08:11:49 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 08:12:08 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 08:12:38 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 08:12:46 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 08:13:00 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 08:16:24 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 08:22:51 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 08:27:44 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 08:33:31 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 08:35:59 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 08:36:12 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 08:37:08 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 08:41:44 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 08:41:57 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 08:42:27 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 08:42:52 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 08:51:14 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 08:51:21 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 08:52:12 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 08:52:17 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 08:53:54 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 08:56:38 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 08:57:08 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 08:57:19 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 08:58:23 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 08:58:46 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 08:59:19 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 08:59:21 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:00:55 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:01:39 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:01:45 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:01:55 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:02:53 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:03:47 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:03:57 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:04:01 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:06:06 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:06:12 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:06:50 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:07:15 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:18:49 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:19:05 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:21:27 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:21:57 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:22:00 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:22:04 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:22:12 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:23:32 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:23:32 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:23:43 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:24:06 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:24:51 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:25:53 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:25:56 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:26:18 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:26:24 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:27:10 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:27:36 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:27:37 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:28:01 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:28:36 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:30:12 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:31:44 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:32:24 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:34:01 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:34:07 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:36:17 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:36:46 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:37:00 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:37:23 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:37:47 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:38:13 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:38:40 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:42:40 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:43:32 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:44:50 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:46:07 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:47:03 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:47:10 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:56:31 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 09:57:05 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 10:00:51 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 10:01:23 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 10:02:04 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 10:02:46 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 10:02:47 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 10:02:58 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 10:05:05 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 10:07:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 10:09:00 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 10:11:18 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 10:12:45 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 10:23:05 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 10:23:12 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 10:24:10 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 10:24:46 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 10:24:51 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 10:25:30 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 10:25:37 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 10:26:15 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 10:27:06 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 10:27:39 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 10:28:28 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 10:43:57 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 10:53:50 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 11:01:51 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 11:02:31 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 11:23:47 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 11:27:52 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 11:31:39 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 11:31:49 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 11:35:24 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 11:36:35 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 11:38:42 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 11:39:21 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 11:39:24 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 11:53:48 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 11:53:53 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 11:54:20 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 11:54:44 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 11:55:59 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 11:58:06 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 11:58:53 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 11:59:09 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 11:59:13 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 12:00:11 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 12:00:24 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 12:01:43 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 12:03:19 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 12:09:03 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 12:09:06 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 12:09:19 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 12:09:22 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 12:10:16 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 12:11:17 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 12:11:18 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[29-Feb-2020 12:12:59 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chandrahasa/public_html/stagnesgscblr.com/includes/connection.php on line 7
+[28-Aug-2020 04:15:48 UTC] PHP Notice:  Undefined index: fname in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 2
+[28-Aug-2020 04:15:48 UTC] PHP Notice:  Undefined index: mobile in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 3
+[28-Aug-2020 04:15:48 UTC] PHP Notice:  Undefined index: email in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 4
+[28-Aug-2020 04:15:48 UTC] PHP Notice:  Undefined index: message in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 5
+[26-Sep-2020 10:14:43 UTC] PHP Notice:  Undefined index: fname in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 2
+[26-Sep-2020 10:14:43 UTC] PHP Notice:  Undefined index: mobile in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 3
+[26-Sep-2020 10:14:43 UTC] PHP Notice:  Undefined index: email in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 4
+[26-Sep-2020 10:14:43 UTC] PHP Notice:  Undefined index: message in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 5
+[14-Oct-2020 04:47:35 UTC] PHP Notice:  Undefined index: fname in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 2
+[14-Oct-2020 04:47:35 UTC] PHP Notice:  Undefined index: mobile in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 3
+[14-Oct-2020 04:47:35 UTC] PHP Notice:  Undefined index: email in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 4
+[14-Oct-2020 04:47:35 UTC] PHP Notice:  Undefined index: message in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 5
+[20-Oct-2020 06:25:12 UTC] PHP Notice:  Undefined index: fname in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 2
+[20-Oct-2020 06:25:12 UTC] PHP Notice:  Undefined index: mobile in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 3
+[20-Oct-2020 06:25:12 UTC] PHP Notice:  Undefined index: email in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 4
+[20-Oct-2020 06:25:12 UTC] PHP Notice:  Undefined index: message in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 5
+[24-Oct-2020 11:57:35 UTC] PHP Notice:  Undefined index: fname in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 2
+[24-Oct-2020 11:57:35 UTC] PHP Notice:  Undefined index: mobile in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 3
+[24-Oct-2020 11:57:35 UTC] PHP Notice:  Undefined index: email in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 4
+[24-Oct-2020 11:57:35 UTC] PHP Notice:  Undefined index: message in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 5
+[03-Nov-2020 17:24:14 UTC] PHP Notice:  Undefined index: fname in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 2
+[03-Nov-2020 17:24:14 UTC] PHP Notice:  Undefined index: mobile in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 3
+[03-Nov-2020 17:24:14 UTC] PHP Notice:  Undefined index: email in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 4
+[03-Nov-2020 17:24:14 UTC] PHP Notice:  Undefined index: message in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 5
+[21-Nov-2020 02:24:36 UTC] PHP Notice:  Undefined index: fname in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 2
+[21-Nov-2020 02:24:36 UTC] PHP Notice:  Undefined index: mobile in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 3
+[21-Nov-2020 02:24:36 UTC] PHP Notice:  Undefined index: email in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 4
+[21-Nov-2020 02:24:36 UTC] PHP Notice:  Undefined index: message in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 5
+[24-Nov-2020 02:27:42 UTC] PHP Notice:  Undefined index: fname in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 2
+[24-Nov-2020 02:27:42 UTC] PHP Notice:  Undefined index: mobile in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 3
+[24-Nov-2020 02:27:42 UTC] PHP Notice:  Undefined index: email in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 4
+[24-Nov-2020 02:27:42 UTC] PHP Notice:  Undefined index: message in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 5
+[11-Jan-2021 04:23:42 UTC] PHP Notice:  Undefined index: fname in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 2
+[11-Jan-2021 04:23:42 UTC] PHP Notice:  Undefined index: mobile in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 3
+[11-Jan-2021 04:23:42 UTC] PHP Notice:  Undefined index: email in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 4
+[11-Jan-2021 04:23:42 UTC] PHP Notice:  Undefined index: message in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 5
+[12-Jan-2021 07:13:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 384
+[12-Jan-2021 07:14:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 384
+[12-Jan-2021 07:33:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/chandrahasa/public_html/stagnesgscblr.com/index.php on line 384
+[14-Jan-2021 03:24:11 UTC] PHP Notice:  Undefined index: fname in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 2
+[14-Jan-2021 03:24:11 UTC] PHP Notice:  Undefined index: mobile in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 3
+[14-Jan-2021 03:24:11 UTC] PHP Notice:  Undefined index: email in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 4
+[14-Jan-2021 03:24:11 UTC] PHP Notice:  Undefined index: message in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 5
+[19-Feb-2021 02:38:00 UTC] PHP Notice:  Undefined index: fname in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 2
+[19-Feb-2021 02:38:01 UTC] PHP Notice:  Undefined index: mobile in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 3
+[19-Feb-2021 02:38:01 UTC] PHP Notice:  Undefined index: email in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 4
+[19-Feb-2021 02:38:01 UTC] PHP Notice:  Undefined index: message in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 5
+[20-Feb-2021 18:07:41 UTC] PHP Notice:  Undefined index: fname in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 2
+[20-Feb-2021 18:07:41 UTC] PHP Notice:  Undefined index: mobile in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 3
+[20-Feb-2021 18:07:41 UTC] PHP Notice:  Undefined index: email in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 4
+[20-Feb-2021 18:07:41 UTC] PHP Notice:  Undefined index: message in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 5
+[20-Feb-2021 21:11:06 UTC] PHP Notice:  Undefined index: fname in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 2
+[20-Feb-2021 21:11:06 UTC] PHP Notice:  Undefined index: mobile in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 3
+[20-Feb-2021 21:11:06 UTC] PHP Notice:  Undefined index: email in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 4
+[20-Feb-2021 21:11:06 UTC] PHP Notice:  Undefined index: message in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 5
+[21-Feb-2021 11:53:11 UTC] PHP Notice:  Undefined index: fname in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 2
+[21-Feb-2021 11:53:11 UTC] PHP Notice:  Undefined index: mobile in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 3
+[21-Feb-2021 11:53:11 UTC] PHP Notice:  Undefined index: email in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 4
+[21-Feb-2021 11:53:11 UTC] PHP Notice:  Undefined index: message in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 5
+[22-Feb-2021 05:42:58 UTC] PHP Notice:  Undefined index: fname in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 2
+[22-Feb-2021 05:42:58 UTC] PHP Notice:  Undefined index: mobile in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 3
+[22-Feb-2021 05:42:58 UTC] PHP Notice:  Undefined index: email in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 4
+[22-Feb-2021 05:42:58 UTC] PHP Notice:  Undefined index: message in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 5
+[23-Mar-2021 23:43:54 UTC] PHP Notice:  Undefined index: fname in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 2
+[23-Mar-2021 23:43:54 UTC] PHP Notice:  Undefined index: mobile in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 3
+[23-Mar-2021 23:43:54 UTC] PHP Notice:  Undefined index: email in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 4
+[23-Mar-2021 23:43:54 UTC] PHP Notice:  Undefined index: message in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 5
+[22-Apr-2021 08:25:21 UTC] PHP Notice:  Undefined index: fname in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 2
+[22-Apr-2021 08:25:21 UTC] PHP Notice:  Undefined index: mobile in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 3
+[22-Apr-2021 08:25:21 UTC] PHP Notice:  Undefined index: email in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 4
+[22-Apr-2021 08:25:21 UTC] PHP Notice:  Undefined index: message in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 5
+[25-May-2021 01:10:08 UTC] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home/chandrahasa/public_html/stagnesgscblr.com/dfile.php(33) : eval()'d code on line 1
+[01-Jul-2021 04:26:15 UTC] PHP Notice:  Undefined index: fname in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 2
+[01-Jul-2021 04:26:15 UTC] PHP Notice:  Undefined index: mobile in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 3
+[01-Jul-2021 04:26:15 UTC] PHP Notice:  Undefined index: email in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 4
+[01-Jul-2021 04:26:15 UTC] PHP Notice:  Undefined index: message in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 5
+[03-Jul-2021 04:23:18 UTC] PHP Notice:  Undefined index: fname in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 2
+[03-Jul-2021 04:23:18 UTC] PHP Notice:  Undefined index: mobile in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 3
+[03-Jul-2021 04:23:18 UTC] PHP Notice:  Undefined index: email in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 4
+[03-Jul-2021 04:23:18 UTC] PHP Notice:  Undefined index: message in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 5
+[03-Jul-2021 10:43:09 UTC] PHP Notice:  Undefined index: fname in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 2
+[03-Jul-2021 10:43:09 UTC] PHP Notice:  Undefined index: mobile in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 3
+[03-Jul-2021 10:43:09 UTC] PHP Notice:  Undefined index: email in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 4
+[03-Jul-2021 10:43:09 UTC] PHP Notice:  Undefined index: message in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 5
+[05-Jul-2021 09:58:12 UTC] PHP Notice:  Undefined index: fname in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 2
+[05-Jul-2021 09:58:12 UTC] PHP Notice:  Undefined index: mobile in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 3
+[05-Jul-2021 09:58:12 UTC] PHP Notice:  Undefined index: email in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 4
+[05-Jul-2021 09:58:12 UTC] PHP Notice:  Undefined index: message in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 5
+[18-Jul-2021 23:42:56 UTC] PHP Notice:  Undefined index: fname in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 2
+[18-Jul-2021 23:42:56 UTC] PHP Notice:  Undefined index: mobile in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 3
+[18-Jul-2021 23:42:56 UTC] PHP Notice:  Undefined index: email in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 4
+[18-Jul-2021 23:42:56 UTC] PHP Notice:  Undefined index: message in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 5
+[19-Jul-2021 06:37:37 UTC] PHP Notice:  Undefined index: fname in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 2
+[19-Jul-2021 06:37:37 UTC] PHP Notice:  Undefined index: mobile in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 3
+[19-Jul-2021 06:37:38 UTC] PHP Notice:  Undefined index: email in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 4
+[19-Jul-2021 06:37:38 UTC] PHP Notice:  Undefined index: message in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 5
+[21-Jul-2021 12:51:35 UTC] PHP Notice:  Undefined index: fname in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 2
+[21-Jul-2021 12:51:35 UTC] PHP Notice:  Undefined index: mobile in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 3
+[21-Jul-2021 12:51:35 UTC] PHP Notice:  Undefined index: email in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 4
+[21-Jul-2021 12:51:35 UTC] PHP Notice:  Undefined index: message in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 5
+[16-Aug-2021 17:21:34 UTC] PHP Notice:  Undefined index: fname in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 2
+[16-Aug-2021 17:21:34 UTC] PHP Notice:  Undefined index: mobile in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 3
+[16-Aug-2021 17:21:34 UTC] PHP Notice:  Undefined index: email in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 4
+[16-Aug-2021 17:21:34 UTC] PHP Notice:  Undefined index: message in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 5
+[18-Aug-2021 06:36:38 UTC] PHP Notice:  Undefined index: fname in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 2
+[18-Aug-2021 06:36:38 UTC] PHP Notice:  Undefined index: mobile in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 3
+[18-Aug-2021 06:36:38 UTC] PHP Notice:  Undefined index: email in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 4
+[18-Aug-2021 06:36:38 UTC] PHP Notice:  Undefined index: message in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 5
+[23-Aug-2021 12:44:48 UTC] PHP Notice:  Undefined index: fname in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 2
+[23-Aug-2021 12:44:48 UTC] PHP Notice:  Undefined index: mobile in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 3
+[23-Aug-2021 12:44:48 UTC] PHP Notice:  Undefined index: email in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 4
+[23-Aug-2021 12:44:48 UTC] PHP Notice:  Undefined index: message in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 5
+[25-Aug-2021 17:00:23 UTC] PHP Notice:  Undefined index: fname in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 2
+[25-Aug-2021 17:00:23 UTC] PHP Notice:  Undefined index: mobile in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 3
+[25-Aug-2021 17:00:23 UTC] PHP Notice:  Undefined index: email in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 4
+[25-Aug-2021 17:00:23 UTC] PHP Notice:  Undefined index: message in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 5
+[20-Sep-2021 14:58:58 UTC] PHP Notice:  Undefined index: fname in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 2
+[20-Sep-2021 14:58:58 UTC] PHP Notice:  Undefined index: mobile in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 3
+[20-Sep-2021 14:58:58 UTC] PHP Notice:  Undefined index: email in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 4
+[20-Sep-2021 14:58:58 UTC] PHP Notice:  Undefined index: message in /home/chandrahasa/public_html/stagnesgscblr.com/contactMail.php on line 5
